@@ -11,29 +11,3 @@ hello atguigu! hello git !
 hello atguigu! hello git !
 hello atguigu! hello git ! master test
 hello atguigu! hello git ! hot fix
-
-
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-hello.txt[+] [unix] (07:59 01/01/1970)                                                                10,1 All
--- INSERT --
-
